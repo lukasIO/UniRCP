@@ -8,7 +8,7 @@ Unity Implementation of the Rabbit Control Protocol (https://github.com/rabbitCo
 
 ## What is this
 A reactive server implementation for a rapid setup of remote controlling (almost) everything within unity during runtime.<br>
-Using RabbitControl, a client application (i.e. (here)[https://github.com/rabbitControl/rcp-ts-client] which is running online (here)[https://rabbitcontrol.github.io/client/] automatically generates a UI for remote controlling the parameters that you choose to expose via this RCP server.
+Using RabbitControl, a client application (i.e. [here](https://github.com/rabbitControl/rcp-ts-client) which is running online [here](https://rabbitcontrol.github.io/client/) automatically generates a UI for remote controlling the parameters that you choose to expose via this RCP server.
 
 ## How does it work
 Place the RabbitControl Prefab from this Repo in your Scene.<br>
