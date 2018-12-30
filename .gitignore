@@ -10,6 +10,8 @@
 [Bb]uilds/
 [Ll]ogs/
 Assets/AssetStoreTools*
+Assets/Plugins/UniRx/
+Assets/Plugins/BindingsRx/
 
 # Visual Studio cache directory
 .vs/
